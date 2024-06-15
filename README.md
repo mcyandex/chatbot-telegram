@@ -106,8 +106,6 @@ You can be in this list:
 1. [Hans Blinken](https://t.me/hblink). Donation: **10$**
 
 ## Contributors
-- Main contributor: @karfly
-- [Jadve AI](https://jadve.com).
-
+- main contributor: miguel cano
 ## References
 1. [*Build ChatGPT from GPT-3*](https://learnprompting.org/docs/applied_prompting/build_chatgpt)
