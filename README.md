@@ -1,7 +1,7 @@
 # ChatGPT Telegram Bot: **GPT-4. Fast. No daily limits. Special chat modes**
 
 <div align="center">
-<img src="https://raw.github.com/chatbot-telegram/tree/main/static/header.png" align="center" style="width: 100%" />
+<img src="https://raw.github.com/chatbot-telegram/blob/main/static/header.png" align="center" style="width: 100%" />
 </div>
 
 <br>
