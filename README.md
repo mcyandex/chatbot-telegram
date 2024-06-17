@@ -84,8 +84,6 @@ You can be in this list:
 
 1. [Ilias Ism](https://twitter.com/illyism). Donation: **69$**
 
-    *Message:* I wanted to thank you for your amazing code! It helped me start my own Telegram ChatGPT bot and add a bunch of cool features. I really appreciate your hard work on this project. For anyone interested in trying my bot, feel free to check it out here: [magicbuddy.chat](https://magicbuddy.chat) 🤖 Thanks again! 😊
-
 1. [Sebastian](https://t.me/dell1503). Donation: **55$**
 
 1. [Alexander Zimin](https://t.me/azimin). Donation: **50$**
